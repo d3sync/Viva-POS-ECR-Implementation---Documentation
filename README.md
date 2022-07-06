@@ -1,10 +1,9 @@
 # Viva-POS-ECR-Implementation---Documentation
 Documentation for Viva POS RC Application - Implementation of Viva API for countertop POS.
 
-Currently on version #2.1.0.34#
+Currently on version #2.1.0.39#
 
-Application allows the user to connect through a Windows(WinXP with .NET Framework 4.0 and higher) computer to a countertop terminal that implements Viva API as 
-documented in their portal here => https://developer.vivawallet.com/apis-for-point-of-sale/card-terminals-devices/vivawallet-api-cl/
+Application allows the user to connect through a Windows(Win7 with .NET Framework 4.5.2 and higher) computer to a countertop terminal that implements Viva API as documented in their portal here => https://developer.vivawallet.com/apis-for-point-of-sale/card-terminals-devices/vivawallet-api-cl/
 
 The main key points and the purposes of this application are:
 * Minimize required time to execute a transaction
@@ -43,4 +42,4 @@ The application does offer a few more tricks like logging successful transaction
 -------------
 One key ingredient misses from this recipe to meet perfection. The ability to make a sale request with installments. A feature that has not yet been implemented by the Viva API.
 
-Any questions can be sent to d3apps [@tt] idle.gr
+Any questions or inqueries can be sent to d3apps [@tt] idle.gr
