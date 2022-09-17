@@ -14,7 +14,7 @@ The main key points and the purposes of this application are:
 The application aims for simplicity. 
 The less you do the better.
 
-We achieve this by using the A and Z for all things programming nothing short than Ctrl+C and Ctrl+V of course!
+We achieve this by using the magic of Ctrl+C and Ctrl+V!
 
 ##How it works?
 
